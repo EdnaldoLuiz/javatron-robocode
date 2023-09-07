@@ -41,9 +41,11 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
         <tr>
             <td align="center">01</td>
             <td align="center">
-                <a href="./01" target="_blank">Ednaldo Luiz</a>
+                Ednaldo Luiz
             </td>
-            <td align="center">Lata</td>
+            <td align="center">
+                <a href="./lata" target="_blank">Lata</a>
+            </td>
           <td align="center">
             <a href="https://github.com/EdnaldoLuiz" target="_blank">
                 <img width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
@@ -56,9 +58,11 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
         <tr>
             <td align="center">02</td>
             <td align="center">
-                <a href="./02" target="_blank">Bruno Souza</a>
+                Bruno Souza
             </td>
-            <td align="center">R2D2</td>
+            <td align="center">
+                <a href="./r2d2" target="_blank">R2D2</a>
+            </td>
           <td align="center">
             <a href="https://github.com/brunohnsouza" target="_blank">
                 <img width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
@@ -71,24 +75,28 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
         <tr>
             <td align="center">03</td>
             <td align="center">
-                <a href="./03" target="_blank">Edvaldo Vitor</a>
+                Edvaldo Vitor
             </td>
-            <td align="center">Não sei</td>
-          <td align="center">
-            <a href="https://github.com/edvaldovitor250" target="_blank">
-                <img width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-            </a><br>
-            <a href="https://www.linkedin.com/in/edvaldovitor250" target="_blank">
-                <img width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-            </a>  
-          </td>
+            <td align="center">
+                <a href="./naosei" target="_blank">Não sei</a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/edvaldovitor250" target="_blank">
+                    <img width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+                </a><br>
+                <a href="https://www.linkedin.com/in/edvaldovitor250" target="_blank">
+                    <img width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+                </a>  
+            </td>
         </tr>
         <tr>
             <td align="center">04</td>
             <td align="center">
-                <a href="./04" target="_blank">Arthur Morais</a>
+                Arthur Morais
             </td>
-            <td align="center">Não sei</td>
+            <td align="center">
+                <a href="./tutu" target="_blank">Tutu</a>
+            </td>
           <td align="center">
             <a href="https://github.com/arthur-morais" target="_blank">
                 <img width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
@@ -100,9 +108,11 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
           <tr>
             <td align="center">05</td>
             <td align="center">
-                <a href="./05" target="_blank">Walter Borges</a>
+                Walter Borges
             </td>
-            <td align="center">Não sei</td>
+            <td align="center">
+                <a href="./w1" target="_blank">W1</a>
+            </td>
           <td align="center">
             <a href="https://github.com/wabpe" target="_blank">
                 <img width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
@@ -115,9 +125,11 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
         <tr>
             <td align="center">06</td>
             <td align="center">
-                <a href="./06" target="_blank">Matheus Secantes</a>
+                Matheus Secantes
             </td>
-            <td align="center">Não sei</td>
+            <td align="center">
+                <a href="./naosei" target="_blank">Não sei</a>
+            </td>
           <td align="center">
             <a href="https://github.com/SecondzzMSF" target="_blank">
                 <img width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
@@ -130,9 +142,11 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
         <tr>
             <td align="center">07</td>
             <td align="center">
-                <a href="./07" target="_blank">Caio Melo</a>
+                Caio Melo
             </td>
-            <td align="center">Não sei</td>
+            <td align="center">
+                <a href="./naosei" target="_blank">Não sei</a>
+            </td>
           <td align="center">
             <a href="https://github.com/CaioMelo10" target="_blank">
                 <img width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
