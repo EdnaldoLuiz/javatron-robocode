@@ -78,7 +78,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Edvaldo Vitor
             </td>
             <td align="center">
-                <a href="./vt" target="_blank">Vtt</a>
+                <a href="./vt" target="_blank">Vt</a>
             </td>
             <td align="center">
                 <a href="https://github.com/edvaldovitor250" target="_blank">
