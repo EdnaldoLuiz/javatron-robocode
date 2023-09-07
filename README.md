@@ -176,7 +176,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/EdnaldoLuiz/javatron-robocode
 ```
 
 Entre no diretório do projeto
