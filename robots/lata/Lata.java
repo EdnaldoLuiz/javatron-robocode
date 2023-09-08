@@ -1,31 +1,62 @@
-package campeonato.EdnaldoLuiz;
-import robocode.*;
-import java.awt.Color;
-/**
- * Lata - a class by (Ednaldo Luiz)
- */
-public class Lata extends AdvancedRobot {
-  int gunDirection = 1;
+package sample;
 
-  public void run() {
-    // Estilos
-    setBodyColor(Color.black);
-    setRadarColor(Color.green);
-    setGunColor(Color.black);
-    setBulletColor(Color.orange);
 
-    // Gira procurando por inimigos
-    while (true) {
-      turnGunRight(360);
-    }
-  }
+import robocode.HitRobotEvent;
+import robocode.Robot;
+import robocode.ScannedRobotEvent;
 
-  public void onScannedRobot(ScannedRobotEvent e) {
-    setTurnRight(e.getBearing());
-    setFire(3);
-    setAhead(100);
-    gunDirection = -gunDirection;
-    setTurnGunRight(360 * gunDirection);
-    execute();
-  }
+import java.awt.*;
+
+public class Lata extends Robot {
+
+	boolean peek; 
+	double moveAmount; 
+
+	public void run() {
+
+		setBodyColor(Color.black);
+		setGunColor(Color.black);
+		setRadarColor(Color.orange);
+		setBulletColor(Color.cyan);
+		setScanColor(Color.cyan);
+
+		moveAmount = Math.max(getBattleFieldWidth(), getBattleFieldHeight());
+		
+		peek = false;
+
+		turnLeft(getHeading() % 90);
+		ahead(moveAmount);
+		
+		peek = true;
+		turnGunRight(90);
+		turnRight(90);
+
+		while (true) {
+			
+			peek = true;
+		
+			ahead(moveAmount);
+			
+			peek = false;
+			
+			turnRight(90);
+		}
+	}
+
+	public void onHitRobot(HitRobotEvent e) {
+	
+		if (e.getBearing() > -90 && e.getBearing() < 90) {
+			back(100);
+		} else {
+			ahead(100);
+		}
+	}
+
+	public void onScannedRobot(ScannedRobotEvent e) {
+		fire(2);
+	
+		if (peek) {
+			scan();
+		}
+	}
 }
