@@ -44,7 +44,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Ednaldo Luiz
             </td>
             <td align="center">
-                <a href="./lata" target="_blank">Lata</a>
+                <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/lata" target="_blank">Lata</a>
             </td>
           <td align="center">
             <a href="https://github.com/EdnaldoLuiz" target="_blank">
@@ -61,7 +61,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Bruno Souza
             </td>
             <td align="center">
-                <a href="./r2d2" target="_blank">R2D2</a>
+                <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/r2d2" target="_blank">R2D2</a>
             </td>
           <td align="center">
             <a href="https://github.com/brunohnsouza" target="_blank">
@@ -78,7 +78,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Edvaldo Vitor
             </td>
             <td align="center">
-                <a href="./vt" target="_blank">Vt</a>
+                <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/vt" target="_blank">Vt</a>
             </td>
             <td align="center">
                 <a href="https://github.com/edvaldovitor250" target="_blank">
@@ -95,7 +95,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Arthur Morais
             </td>
             <td align="center">
-                <a href="./tutu" target="_blank">Tutu</a>
+                <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/tutu" target="_blank">Tutu</a>
             </td>
           <td align="center">
             <a href="https://github.com/arthur-morais" target="_blank">
@@ -111,7 +111,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Walter Borges
             </td>
             <td align="center">
-                <a href="./w1" target="_blank">W1</a>
+                <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/w1" target="_blank">W1</a>
             </td>
           <td align="center">
             <a href="https://github.com/wabpe" target="_blank">
