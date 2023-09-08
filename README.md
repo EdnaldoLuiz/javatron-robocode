@@ -27,6 +27,14 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                     </small>
                 </p>
             </th>
+             <th align="center">
+                <img width="100" height="1">
+                <p> 
+                    <small>
+                    NOME-ROBÔ
+                    </small>
+                </p>
+            </th>
             <th align="center">
                 <img width="200" height="1">
                 <p> 
@@ -44,9 +52,12 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Ednaldo Luiz
             </td>
             <td align="center">
+                <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
+            </td>
+            <td align="center">
                 <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/lata" target="_blank">Lata</a>
             </td>
-          <td align="center">
+            <td align="center">
             <a href="https://github.com/EdnaldoLuiz" target="_blank">
                 <img width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
             </a><br>
@@ -59,6 +70,9 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
             <td align="center">02</td>
             <td align="center">
                 Bruno Souza
+            </td>
+            <td align="center">
+                <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
             </td>
             <td align="center">
                 <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/r2d2" target="_blank">R2D2</a>
@@ -78,6 +92,9 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Edvaldo Vitor
             </td>
             <td align="center">
+                <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
+            </td>
+            <td align="center">
                 <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/vt" target="_blank">Vt</a>
             </td>
             <td align="center">
@@ -95,6 +112,9 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Arthur Morais
             </td>
             <td align="center">
+                <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
+            </td>
+            <td align="center">
                 <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/tutu" target="_blank">Tutu</a>
             </td>
           <td align="center">
@@ -109,6 +129,9 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
             <td align="center">05</td>
             <td align="center">
                 Walter Borges
+            </td>
+            <td align="center">
+                <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
             </td>
             <td align="center">
                 <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/w1" target="_blank">W1</a>
@@ -128,6 +151,9 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Matheus Secantes
             </td>
             <td align="center">
+                <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
+            </td>
+            <td align="center">
                 <a href="./naosei" target="_blank">Não sei</a>
             </td>
           <td align="center">
@@ -143,6 +169,9 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
             <td align="center">07</td>
             <td align="center">
                 Caio Melo
+            </td>
+            <td align="center">
+                <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
             </td>
             <td align="center">
                 <a href="./naosei" target="_blank">Não sei</a>
