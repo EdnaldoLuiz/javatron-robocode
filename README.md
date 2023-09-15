@@ -154,7 +154,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
             </td>
             <td align="center">
-                <a href="./naosei" target="_blank">Não sei</a>
+                <a href="./naosei" target="_blank">blitzcrank</a>
             </td>
           <td align="center">
             <a href="https://github.com/SecondzzMSF" target="_blank">
