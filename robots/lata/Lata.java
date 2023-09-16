@@ -1,5 +1,4 @@
-package sample;
-
+package luiz;
 
 import robocode.HitRobotEvent;
 import robocode.Robot;
@@ -14,11 +13,7 @@ public class Lata extends Robot {
 
 	public void run() {
 
-		setBodyColor(Color.black);
-		setGunColor(Color.black);
-		setRadarColor(Color.orange);
-		setBulletColor(Color.cyan);
-		setScanColor(Color.cyan);
+		setColors(Color.blue, Color.gray, Color.white,Color.cyan, Color.cyan);
 
 		moveAmount = Math.max(getBattleFieldWidth(), getBattleFieldHeight());
 		
