@@ -5,11 +5,7 @@
 ```Java
 public void run() {
 
-    setBodyColor(Color.black);
-    setGunColor(Color.black);
-    setRadarColor(Color.orange);
-    setBulletColor(Color.cyan);
-    setScanColor(Color.cyan);
+    setColors(Color.blue, Color.gray, Color.white,Color.cyan, Color.cyan);
 
     moveAmount = Math.max(getBattleFieldWidth(), getBattleFieldHeight());
 
