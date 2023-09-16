@@ -24,7 +24,7 @@ public void onScannedRobot(ScannedRobotEvent e) {
     predictiveAiming(e);
     fire(power);
 }
-
+```
    
 - Quando o robô detecta um inimigo, ele mede a distância e decide a potência do tiro.
 - O robô usa uma função de mira preditiva para acertar o inimigo em movimento.
@@ -32,7 +32,7 @@ public void onScannedRobot(ScannedRobotEvent e) {
 
 
 -- FunçãopredictiveAiming(ScannedRobotEvent e)
-
+```
 public void predictiveAiming(ScannedRobotEvent e) {
     double absoluteBearing = getHeadingRadians() + e.getBearingRadians();
     double enemyX = getX() + e.getDistance() * Math.sin(absoluteBearing);
@@ -41,13 +41,13 @@ public void predictiveAiming(ScannedRobotEvent e) {
 
     turnGunRightRadians(normalRelativeAngle(predictedBearing - getGunHeadingRadians()));
 }
-
+```
 
 - Esta função calcula a mira para acertar o inimigo em movimento.
 
 
 -- FunçãonormalRelativeAngle(double angle)
-
+```
 public double normalRelativeAngle(double angle) {
     if (angle > Math.PI) {
         angle -= 2 * Math.PI;
@@ -56,29 +56,30 @@ public double normalRelativeAngle(double angle) {
     }
     return angle;
 }
-
+```
 
 - Esta função ajusta o ângulo para mantê-lo dentro de limites compreensíveis. 
 
 
 
 -- FunçãoonHitByBullet(HitByBulletEvent e)
-
+```
 public void onHitByBullet(HitByBulletEvent e) {
     turnRight(90 - e.getBearing());
     ahead(50);
 }
-
+```
 
 - Esta função é ativada quando o robô é atingido por uma bala.
 - O robô desvia e avança após ser atingido.
 
 
 -- FunçãoonHitWall(HitWallEvent e)
-
+```
 public void onHitWall(HitWallEvent e) {
     turnRight(90);
 }
+```
 
 - Esta função é ativada quando o robô atinge uma parede.
 - O robô gira para evitar danos à parede.
