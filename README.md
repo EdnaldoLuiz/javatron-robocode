@@ -171,7 +171,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Caio Melo
             </td>
             <td align="center">
-                <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
+                <img width=50px src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/00ec7635-ae95-4e9f-9ec4-d0324297454d">
             </td>
             <td align="center">
                 <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/c3po" target="_blank">C-3PO</a>
