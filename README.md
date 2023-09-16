@@ -52,7 +52,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Ednaldo Luiz
             </td>
             <td align="center">
-                <img width=90px src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/236b0037-1813-4c13-baf2-f1fbad572bc1">
+                <img width=50px src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1c242415-254a-4d93-bdf7-6226aa9ce0d9">
             </td>
             <td align="center">
                 <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/lata" target="_blank">Lata</a>
@@ -181,6 +181,26 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 <img width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
             </a><br>
             <a href="https://www.linkedin.com/in/caio-melo-73595b24b/" target="_blank">
+                <img width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+            </a>  
+          </td>
+        </tr>
+        <tr>
+            <td align="center">08</td>
+            <td align="center">
+                Denis Gabriel
+            </td>
+            <td align="center">
+                <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
+            </td>
+            <td align="center">
+                <a href="./naosei" target="_blank">null</a>
+            </td>
+          <td align="center">
+            <a href="" target="_blank">
+                <img width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+            </a><br>
+            <a href="" target="_blank">
                 <img width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
             </a>  
           </td>
