@@ -2,11 +2,11 @@
 
 Este é um projeto de robô de batalha desenvolvido para competições no jogo Robocode. O robô C3PO é uma criação que foi projetado para lutar contra outros robôs autônomos em uma arena virtual.
 
-## Funções Principais:
+# Funções Principais:
 
  Quando o robô detecta um inimigo, ele mede a distância e decide a potência do tiro. O robô usa uma função de mira preditiva para acertar o inimigo em movimento e, em seguida, dispara a arma com a potência escolhida.
 
-### `onScannedRobot(ScannedRobotEvent e)`
+-- `onScannedRobot(ScannedRobotEvent e)`
 
 ```java
 public void onScannedRobot(ScannedRobotEvent e) {
