@@ -45,9 +45,9 @@ public void predictiveAiming(ScannedRobotEvent e) {
 
 - Esta função calcula a mira para acertar o inimigo em movimento.
 
-##FunçãonormalRelativeAngle(double angle)
-```
-public double normalRelativeAngle(double angle) {
+# FunçãonormalRelativeAngle(double angle)
+
+```public double normalRelativeAngle(double angle) {
     if (angle > Math.PI) {
         angle -= 2 * Math.PI;
     } else if (angle < -Math.PI) {
@@ -59,7 +59,7 @@ public double normalRelativeAngle(double angle) {
 
 - Esta função ajusta o ângulo para mantê-lo dentro de limites compreensíveis.
 
-#FunçãoonHitByBullet(HitByBulletEvent e)
+# FunçãoonHitByBullet(HitByBulletEvent e)
 ```
 public void onHitByBullet(HitByBulletEvent e) {
     turnRight(90 - e.getBearing());
@@ -81,6 +81,6 @@ public void onHitWall(HitWallEvent e) {
 - Esta função é ativada quando o robô atinge uma parede.
 - O robô gira para evitar danos à parede.
 
-##Contribuições
+## Contribuições
 
 - Contribuições são bem-vindas! Se você deseja melhorar o robô WALLE ou adicionar novos recursos, sinta-se à vontade para abrir um problema ou enviar um pedido de pull request.
