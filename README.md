@@ -134,7 +134,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
             </td>
             <td align="center">
-                <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/w1" target="_blank">W1</a>
+                <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/WALLE" target="_blank">W1</a>
             </td>
           <td align="center">
             <a href="https://github.com/wabpe" target="_blank">
