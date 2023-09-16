@@ -52,7 +52,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Ednaldo Luiz
             </td>
             <td align="center">
-                <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
+                <img width=90px src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/236b0037-1813-4c13-baf2-f1fbad572bc1">
             </td>
             <td align="center">
                 <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/lata" target="_blank">Lata</a>
@@ -72,7 +72,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Bruno Souza
             </td>
             <td align="center">
-                <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
+                <img width=50px src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/c14c037f-28e5-4986-9950-27d52e6166bf">
             </td>
             <td align="center">
                 <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/r2d2" target="_blank">R2D2</a>
@@ -92,7 +92,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Edvaldo Vitor
             </td>
             <td align="center">
-                <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
+                <img width=50px src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/f601e937-3b9c-421c-ace7-04791fb45070">
             </td>
             <td align="center">
                 <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/vt" target="_blank">Vt</a>
@@ -112,7 +112,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Arthur Morais
             </td>
             <td align="center">
-                <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
+                <img width=50px src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/4870d497-45ab-47ca-9713-dbe2667d56a8">
             </td>
             <td align="center">
                 <a href="https://github.com/EdnaldoLuiz/javatron-robocode/tree/main/robots/tutu" target="_blank">Tutu</a>
@@ -151,7 +151,7 @@ Desenvolvimento de robôs inteligentes em Java para competições emocionantes n
                 Matheus Sencades
             </td>
             <td align="center">
-                <img src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/1554b02e-115a-4750-bfc6-7f21995d30bf">
+                <img width=50px src="https://github.com/EdnaldoLuiz/javatron-robocode/assets/112354693/50c1f17f-8002-41ba-a653-b34bb7b3b4bb">
             </td>
             <td align="center">
                 <a href="robots/blitzcrank" target="_blank">blitzcrank</a>
