@@ -24,15 +24,14 @@ public void onScannedRobot(ScannedRobotEvent e) {
     predictiveAiming(e);
     fire(power);
 }
-<li>
+
    
- <ul>Quando o robô detecta um inimigo, ele mede a distância e decide a potência do tiro.</ul>
- <ul>O robô usa uma função de mira preditiva para acertar o inimigo em movimento.</ul>
- <ul>Em seguida, dispara a arma com a potência escolhida.</ul>
+- Quando o robô detecta um inimigo, ele mede a distância e decide a potência do tiro.
+- O robô usa uma função de mira preditiva para acertar o inimigo em movimento.
+- Em seguida, dispara a arma com a potência escolhida.
 
-</li>
 
-## FunçãopredictiveAiming(ScannedRobotEvent e)
+-- FunçãopredictiveAiming(ScannedRobotEvent e)
 
 public void predictiveAiming(ScannedRobotEvent e) {
     double absoluteBearing = getHeadingRadians() + e.getBearingRadians();
@@ -43,11 +42,11 @@ public void predictiveAiming(ScannedRobotEvent e) {
     turnGunRightRadians(normalRelativeAngle(predictedBearing - getGunHeadingRadians()));
 }
 
-<li>
-<ul>Esta função calcula a mira para acertar o inimigo em movimento.</ul>
-</li>
 
-##FunçãonormalRelativeAngle(double angle)
+- Esta função calcula a mira para acertar o inimigo em movimento.
+
+
+-- FunçãonormalRelativeAngle(double angle)
 
 public double normalRelativeAngle(double angle) {
     if (angle > Math.PI) {
@@ -58,34 +57,32 @@ public double normalRelativeAngle(double angle) {
     return angle;
 }
 
-<li>
-<ul>Esta função ajusta o ângulo para mantê-lo dentro de limites compreensíveis. 
-</ul>
-</li>
 
-##FunçãoonHitByBullet(HitByBulletEvent e)
+- Esta função ajusta o ângulo para mantê-lo dentro de limites compreensíveis. 
+
+
+
+-- FunçãoonHitByBullet(HitByBulletEvent e)
 
 public void onHitByBullet(HitByBulletEvent e) {
     turnRight(90 - e.getBearing());
     ahead(50);
 }
 
-<li>
-<ul>Esta função é ativada quando o robô é atingido por uma bala.</ul>
-<ul>O robô desvia e avança após ser atingido.</ul>
-</li>
 
-## FunçãoonHitWall(HitWallEvent e)
+- Esta função é ativada quando o robô é atingido por uma bala.
+- O robô desvia e avança após ser atingido.
+
+
+-- FunçãoonHitWall(HitWallEvent e)
 
 public void onHitWall(HitWallEvent e) {
     turnRight(90);
 }
 
-<li>
-<ul>Esta função é ativada quando o robô atinge uma parede.</ul>
-<ul>O robô gira para evitar danos à parede.</ul>
-</li>
+- Esta função é ativada quando o robô atinge uma parede.
+- O robô gira para evitar danos à parede.
 
-##Contribuições
+-- Contribuições
 
 Contribuições são bem-vindas! Se você deseja melhorar o robô C3PO ou adicionar novos recursos, sinta-se à vontade para abrir um problema ou enviar um pedido de pull request.
