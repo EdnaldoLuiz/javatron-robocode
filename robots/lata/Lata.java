@@ -181,4 +181,4 @@ public class Lata extends AdvancedRobot {
 			mover = true;
 		}
 	}
-	
+}
